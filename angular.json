@@ -41,7 +41,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "baseHref": "/angularstart-todo-2/",
+            "baseHref": "/todo-list-2/",
             "outputPath": "dist/angularstart-todo-2",
             "index": "src/index.html",
             "browser": "src/main.ts",
